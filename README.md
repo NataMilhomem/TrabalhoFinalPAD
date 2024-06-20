@@ -9,5 +9,5 @@ https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-syst
 
 Pasta Google Drive:
 https://drive.google.com/drive/folders/15Dilh-XrBQ-GykSqaA_xcgkgPLTRTwsw?usp=sharing
-### - Semana 1 (Ask)
+### Semana 1 (Ask)
 > Definir a pergunta
