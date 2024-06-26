@@ -11,9 +11,17 @@ Pasta Google Drive:
 https://drive.google.com/drive/folders/15Dilh-XrBQ-GykSqaA_xcgkgPLTRTwsw?usp=sharing
 
 
-### Semana 1 (Ask)
+### Ask
 > Definir a pergunta
 
 - Projeto FMF: "Quais são os melhores filmes para recomendar a um usuário baseado em suas preferências anteriores?"
 
 - Projeto Original: "Quais são as melhores **séries** para recomendar a um usuário baseado em suas preferências anteriores?"
+
+
+### Get
+> Quais são os dados? Como vamos acessá-los?
+
+- Projeto FMF: Base do TMDB (disponível no TMDB)
+
+- Projeto Original: Base TVmaze API (https://www.tvmaze.com/api)
