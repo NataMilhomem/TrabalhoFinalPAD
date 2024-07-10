@@ -11,7 +11,7 @@ Grupo: Geovana Teixeira, Jair Neto, Lídia do Vale (Líder), Mirmila Sócrates, 
 Getting Started with a Movie Recommendation System
 https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system
 
-https://colab.research.google.com/drive/1KjXbZAFiajppb9PKzw4wXt8aEgz2Wyp-?usp=sharing
+Colab: https://colab.research.google.com/drive/1KjXbZAFiajppb9PKzw4wXt8aEgz2Wyp-?usp=sharing
 
 Pasta Google Drive:
 https://drive.google.com/drive/folders/15Dilh-XrBQ-GykSqaA_xcgkgPLTRTwsw?usp=sharing
