@@ -67,7 +67,7 @@ Construção da função 'get_recommendations', em que o título de um filme é 
 ---
 
 ### Projeto Original:
-https://colab.research.google.com/drive/1gqQ6PBRT--_fuWVcA9qYPw2w618Wk7bC?usp=sharing
+https://drive.google.com/file/d/1ZVt5CXAp39oDm5vEEMfoCt19C7mLqXTp/view?usp=sharing
 
 
 ---
