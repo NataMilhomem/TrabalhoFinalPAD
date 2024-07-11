@@ -105,7 +105,13 @@ Dados do TV Maze API (https://www.tvmaze.com/api)
 > Comunicação e divulgação dos resultados
 
 **MODEL**:
-- ...
+- Média ponderada da avaliação de séries
+- Matriz TF-IDF (TfIdfVectorizer class pelo SKlearn) do resumo das séries
+- Cálculo do núcleo linear (kernel) da Matriz TF-IDF (linear_kernel() pelo SKLearn)
+- Construção de um mapa reverso que associa índices a títulos de filme (usando o Pandas)
+- Criação de uma "sopa de metadados" contendo informações de gênero, tipo e duração média de episódios
+- Vetorização dos metadados e Cálculo da Matriz de Similaridade Cosseno entre os vetores
 
 **COMMUNICATE**:
-...
+- Histograma de popularidade das séries
+- Construção da função 'get_recommendations', em que o título de um filme é informado por um usuário e uma lista dos 10 filmes mais similares é apresentada
