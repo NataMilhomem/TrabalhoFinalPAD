@@ -4,18 +4,18 @@ Grupo: Geovana Teixeira, Jair Neto, Lídia do Vale (Líder), Mirmila Sócrates, 
 
 ## Tema: Recomendação
 
+[Apresentação no Canva](https://www.canva.com/design/DAGKaHTa9oY/n2B88XSKbwP3KfJYEVyXww/edit)
+
 ---
 ---
 
 ### Projeto FMF:
 Getting Started with a Movie Recommendation System:
-https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system
+[Link do Kaggle](https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system)
 
-Colab: 
-https://colab.research.google.com/drive/1KjXbZAFiajppb9PKzw4wXt8aEgz2Wyp-?usp=sharing
+[Colab](https://colab.research.google.com/drive/1KjXbZAFiajppb9PKzw4wXt8aEgz2Wyp-?usp=sharing)
 
-Pasta Google Drive:
-https://drive.google.com/drive/folders/15Dilh-XrBQ-GykSqaA_xcgkgPLTRTwsw?usp=sharing
+[Pasta Google Drive](https://drive.google.com/drive/folders/15Dilh-XrBQ-GykSqaA_xcgkgPLTRTwsw?usp=sharing)
 
 ---
 
@@ -67,7 +67,7 @@ Construção da função 'get_recommendations', em que o título de um filme é 
 ---
 
 ### Projeto Original:
-https://drive.google.com/file/d/1ZVt5CXAp39oDm5vEEMfoCt19C7mLqXTp/view?usp=sharing
+[Colab](https://colab.research.google.com/drive/1ZVt5CXAp39oDm5vEEMfoCt19C7mLqXTp?pli=1&usp=drive_fs)
 
 
 ---
